@@ -1,5 +1,5 @@
 # MetaDiSc2.0
-> This edition is compatible with R 4.3
+> This edition is compatible with R 4.3.1 with meta=8.2-1, tools=4.3.1
 
 Meta-DiSc [1] is freeware software to perform Meta-analysis of studies of evaluations of Diagnostic and Screening tests.
 
